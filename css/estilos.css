@@ -11,6 +11,9 @@ body {
   background-position: left;
 }
 
+.boton-personalizado {
+  background-color: #22283f;
+}
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
